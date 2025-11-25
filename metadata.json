@@ -1,0 +1,8 @@
+{
+  "name": "SensorySphere",
+  "description": "A sleek, immersive multimodal AI experience. Explore sight, sound, and creativity through the lens of Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
